@@ -1,0 +1,7 @@
+user: discussion-dance
+password: discussion-dance
+host: 127.0.0.1
+database: discussion
+port: 3306
+raise_on_warnings: True
+use_unicode: False

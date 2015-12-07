@@ -1,0 +1,5 @@
+mysql-connector-python
+sys
+pkg_resources
+urllib3
+-e .

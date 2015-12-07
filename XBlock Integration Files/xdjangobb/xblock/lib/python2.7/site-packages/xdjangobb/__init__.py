@@ -1,0 +1,1 @@
+from .xdjangobb import DjangoBBXBlock

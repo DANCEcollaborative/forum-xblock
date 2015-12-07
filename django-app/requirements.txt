@@ -1,0 +1,5 @@
+Django==1.8.2
+django-allauth==0.19.1
+django-messages==0.5.1
+Whoosh==2.7.0
+django-nocaptcha-recaptcha==0.0.18

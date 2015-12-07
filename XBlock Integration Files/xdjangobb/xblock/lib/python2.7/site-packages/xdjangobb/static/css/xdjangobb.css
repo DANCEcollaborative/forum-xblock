@@ -1,0 +1,9 @@
+/* CSS for DjangoBBXBlock */
+
+.xdjangobb_block .count {
+    font-weight: bold;
+}
+
+.xdjangobb_block p {
+    cursor: pointer;
+}

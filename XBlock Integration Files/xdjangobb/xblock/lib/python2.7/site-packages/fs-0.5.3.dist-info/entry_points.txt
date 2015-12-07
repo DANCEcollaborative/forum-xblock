@@ -1,0 +1,12 @@
+[console_scripts]
+fscat = fs.commands.fscat:run
+fscp = fs.commands.fscp:run
+fsinfo = fs.commands.fsinfo:run
+fsls = fs.commands.fsls:run
+fsmkdir = fs.commands.fsmkdir:run
+fsmount = fs.commands.fsmount:run
+fsmv = fs.commands.fsmv:run
+fsrm = fs.commands.fsrm:run
+fsserve = fs.commands.fsserve:run
+fstree = fs.commands.fstree:run
+

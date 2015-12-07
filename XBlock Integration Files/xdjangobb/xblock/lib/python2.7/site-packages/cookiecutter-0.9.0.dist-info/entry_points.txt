@@ -1,0 +1,3 @@
+[console_scripts]
+cookiecutter = cookiecutter.main:main
+

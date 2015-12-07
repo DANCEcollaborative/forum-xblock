@@ -1,0 +1,8 @@
+discussion_dance.py
+Discussion_XBlock_for_DANCE.egg-info/PKG-INFO
+Discussion_XBlock_for_DANCE.egg-info/SOURCES.txt
+Discussion_XBlock_for_DANCE.egg-info/dependency_links.txt
+Discussion_XBlock_for_DANCE.egg-info/entry_points.txt
+Discussion_XBlock_for_DANCE.egg-info/pbr.json
+Discussion_XBlock_for_DANCE.egg-info/requires.txt
+Discussion_XBlock_for_DANCE.egg-info/top_level.txt

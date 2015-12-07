@@ -1,0 +1,8 @@
+<div class="discussion-dance">
+    <div class="commentbox" style="margin-top:-10px ;margin-right: auto ;">
+        <label class="label">Comment:</label>
+        <textarea class="text-box" id="usercomment" rows="8" cols="80">{self.comment}</textarea>
+    </div>
+    <button id="Post" type="button">Click Me!</button>
+    <button id="Clear" type="button">Click Me!</button>
+</div>

@@ -1,0 +1,12 @@
+xdjangobb/__init__.py
+xdjangobb/xdjangobb.py
+xdjangobb/static/README.txt
+xdjangobb/static/css/xdjangobb.css
+xdjangobb/static/html/xdjangobb.html
+xdjangobb/static/js/src/xdjangobb.js
+xdjangobb_xblock.egg-info/PKG-INFO
+xdjangobb_xblock.egg-info/SOURCES.txt
+xdjangobb_xblock.egg-info/dependency_links.txt
+xdjangobb_xblock.egg-info/entry_points.txt
+xdjangobb_xblock.egg-info/requires.txt
+xdjangobb_xblock.egg-info/top_level.txt

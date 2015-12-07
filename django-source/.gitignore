@@ -1,0 +1,17 @@
+*.py[co]
+*.egg-info
+*.egg
+.idea/
+.pydevproject
+.project
+.settings
+*.db
+*.json
+*.log
+*~
+local_settings.py
+.env
+build/
+dist/
+.tox/
+venv/

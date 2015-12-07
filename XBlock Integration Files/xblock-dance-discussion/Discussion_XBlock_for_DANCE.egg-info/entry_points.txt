@@ -1,0 +1,3 @@
+[xblock.v1]
+discussion_dance = discussion_dance:DiscussionDance
+
