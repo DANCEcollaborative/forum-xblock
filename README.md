@@ -21,14 +21,16 @@ To quickly install a local instance of the current version of the forum Django a
 
 And you are off. Since the home page isn't configured yet. Navigate to http://127.0.0.1:8000/forum/
 
-# The Feature Document
+# The Technical Document
 
-The feature document details the list of features currently offered as well as features that will be added soon.
-https://docs.google.com/document/d/1i3dUv8s4tPOOK0NTSIgc9OWPQyJdsTezh7xxVZjB2XA/edit?usp=sharing
+The technical document detailing the development of the XBlock and providing instructions for custom modifications can be found here. https://docs.google.com/document/d/1tzesucF4w6fDEYQRAjB7Qkj-KUxjaXiSa1BMc4ILc6Q/edit?usp=sharing
+
+# Feature Walkthrough
+
+This document provides a walkthrough of the features currently provided by the forum x-block. https://docs.google.com/document/d/171CftSVqSD9zAYlguj6MXzgvwVz9JvXw2npDjz_eVfE/edit?usp=sharing
 
 # The Design Document
 
-The design document details the overarching goals and guiding principles behind the development of the XBlock.
-https://docs.google.com/document/d/1jd51EXsTxGbd8vDTFHLnzysnk4n7GDpKYlbbZpogrew/edit?usp=sharing
+This document describes the overarching goals behind the conception, subsequent development and future directions of the forum-xblock. https://docs.google.com/document/d/1jd51EXsTxGbd8vDTFHLnzysnk4n7GDpKYlbbZpogrew/edit?usp=sharing
 
 
